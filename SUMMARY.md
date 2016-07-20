@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Введение](README.md)
 * [Загрузка](Booting/README.md)
    * [От загрузчика до ядра](Booting/linux-bootstrap-1.md)
    * [Первые шаги в инсталляционные коды ядра](Booting/linux-bootstrap-2.md)
