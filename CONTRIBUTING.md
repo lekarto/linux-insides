@@ -1,33 +1,33 @@
-Contributing
+Содействие
 ================================================================================
 
-If you want to contribute to [linux-insides](https://github.com/0xAX/linux-insides), please follow these simple rules:
+Если Вы хотите содействовать [linux-insides (original English version)](https://github.com/0xAX/linux-insides) или [linux-insides (перевод на русский язык)](https://github.com/lekarto/linux-insides) , пожалуйста, следуйте этим простым правилам:
 
-1. Press the fork button:
+1. Нажмите кнопку fork:
 
     ![fork](http://oi58.tinypic.com/jj2trm.jpg)
 
-2. Clone the repository from your account with:
+2. Склонируйте репозиторий из Вашего аккаунта:
 
     ```
     git clone git@github.com:your_github_username/linux-insides.git
     ```
 
-3. Create a new branch with:
+3. Создайте новую ветку:
 
     ```
     git checkout -b "linux-bootstrap-1-fix"
     ```
-    You can name it however you want.
+    Вы можете назват ее как хотите.
 
-4. Make your changes.
+4. Сделайте Ваши изменения.
 
-5. Don't forget to add yourself in `contributors.md`.
+5. Не забудьте добавить себя в `contributors.md`.
 
-6. Commit and push your changes, then make a pull request from Github.
+6. Зафиксируйте (commit) и отправьте на сервер (push) Ваши изменения, затем сделайте pull-request на Github.
 
-**IMPORTANT**
+**ВАЖНО**
 
-Please, don't forget to update your fork. While you made your changes, the content of the `master` branch can change because other pull requests were merged and it can create conflicts. This is why you have to rebase on `master` every time before pushing your changes and check that your branch doesn't have any conflicts with `master`.
+Пожалуйста, не забудьте обновить Ваше ответвление. Пока Вы делаете Ваши изменения, содержание `master` ветки может быть изменено т.к. другие pull-requests были слиты и это может произвести конфликты. Поэтому Вам нужно перенести изменения с `master` каждый раз перед тем как Вы сохраняете Ваши изменения на сервере и проверять, что Ваши изменения не имеют никаких конфликтов с `master`.
 
-Thank you.
+Спасибо.
