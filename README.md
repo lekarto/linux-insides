@@ -31,7 +31,7 @@ Licensed [BY-NC-SA Creative Commons](http://creativecommons.org/licenses/by-nc-s
 
 Не стесняйтесь создавать issues или pull-requests если у вас есть любые проблемы.
 
-**Пожалуйста, прочитайте [CONTRIBUTING.md](https://github.com/0xAX/linux-insides/blob/master/CONTRIBUTING.md) перед внесением любых изменений.**
+**Пожалуйста, прочитайте [CONTRIBUTING.md](https://github.com/lekarto/linux-insides/blob/master/CONTRIBUTING.md) перед внесением любых изменений.**
 
 ![image](http://oi58.tinypic.com/23upobq.jpg)
 
